@@ -1,7 +1,7 @@
 # 👋 Olá, sou Gustavo
 
-Engenheiro de software focado em **arquitetura de sistemas, IA aplicada e automação de workflows**.  
-Trabalho com **JavaScript / Node.js, Python, React, bancos de dados relacionais e vetoriais**, construindo desde CLIs locais até plataformas full‑stack com integração de **LLMs e agentes de IA**.
+Estudante de software focado em **arquitetura de sistemas, IA aplicada e automação de workflows**.  
+Trabalhando com **JavaScript / Node.js, Python, React, bancos de dados relacionais e vetoriais**, construindo desde CLIs locais até plataformas full‑stack com integração de **LLMs e agentes de IA**.
 
 ---
 
@@ -16,8 +16,9 @@ Trabalho com **JavaScript / Node.js, Python, React, bancos de dados relacionais 
 ## 🛠️ Habilidades Técnicas
 
 ### Engenharia de software
-- **JavaScript / Node.js**: sistemas full‑stack, APIs REST, pipelines RAG e agentes locais com Ollama + FastAPI.  
-- **Python**: CLIs ricas com Rich, análise de dados, scrapers, automação de pagamentos e TUIs interativas.  
+- **Python**: CLIs ricas com Rich, análise de dados, scrapers, automação de pagamentos e TUIs interativas.
+  **VIA VIBECODING**
+-  **JavaScript / Node.js**: sistemas full‑stack, APIs REST, pipelines RAG e agentes locais com Ollama + FastAPI.    
 - **React**: interfaces funcionais, componentes reutilizáveis, tutores interativos e frontends de plataformas.  
 - **Bancos de dados**: PostgreSQL com schemas relacionais, SQLite para apps locais, Supabase + pgvector para busca vetorial.
 

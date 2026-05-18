@@ -75,12 +75,7 @@ Aqui estão alguns projetos que representam meu foco técnico e de produto:
 
 Sou um desenvolvedor ativo que constrói sistemas reais, não apenas “exercícios” isolados. Um exemplo disso:
 
-- **Chatbot de Recrutamento**  
-  - Mais de [X]mil commits ao longo de [Y] meses.  
-  - [Z] releases publicadas (`v1.0.0`, `v1.1.0`, `v1.2.0`), com changelog detalhado.  
-  - +100 issues tratadas, incluindo bugs, features, tech debt e melhorias de arquitetura.  
-
-- **Outros projetos**  
+- **Diversos projetos**  
   - Variedade de repositórios: APIs, CLIs, UIs, dashboards, automações e pipelines de dados.  
 
 Você pode ver seus badges estatísticos aqui :

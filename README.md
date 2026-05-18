@@ -1,4 +1,4 @@
-# 👋 Olá, sou Gustavo
+# 👋 Olá, sou o Gustavo
 
 Estudante de software focado em **arquitetura de sistemas, IA aplicada e automação de workflows**.  
 Trabalhando com **JavaScript / Node.js, Python, React, bancos de dados relacionais e vetoriais**, construindo desde CLIs locais até plataformas full‑stack com integração de **LLMs e agentes de IA**.

@@ -7,8 +7,8 @@ Trabalhando com **JavaScript / Node.js, Python, React, bancos de dados relaciona
 
 ## 🧠 Sobre mim
 
-- Engenheiro de software com experiência em **desenvolvimento full‑stack, pipelines RAG, APIs REST e agentes locais com Ollama + FastAPI**.  
-- Especialista em **arquitetura de agentes de IA, prompt engineering avançado, busca vetorial com pgvector/Supabase e integração multi‑provedor** (Anthropic, Ollama, Groq, Voyage AI, Tavily Search).  
+- Estudante de software com breve experiência em **desenvolvimento full‑stack, pipelines RAG, APIs REST e agentes locais com Ollama + FastAPI**.  
+- Aprendendo **arquitetura de agentes de IA, prompt engineering avançado, busca vetorial com pgvector/Supabase e integração multi‑provedor** (Anthropic, Ollama, Groq, Voyage AI, Tavily Search).  
 - Apaixonado por **pensamento sistêmico, visão de produto, UX research e gestão técnica** de times, com foco em **resultados mensuráveis** para negócios e clientes.
 
 ---

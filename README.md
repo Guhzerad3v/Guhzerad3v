@@ -39,6 +39,8 @@ T*ools: Docker, n8n, Git, GitHub, VS Code, FastAPI.*
 
 # 📫 Me encontre em:
 
-LinkedIn: [https://www.linkedin.com/in/gustavo-ferreira-rodrigues/]
-GitHub: [https://github.com/Guhzerad3v]
-Email: [gugudeja@gmail.com]
+*LinkedIn:* [https://www.linkedin.com/in/gustavo-ferreira-rodrigues/]
+
+*GitHub:* [https://github.com/Guhzerad3v]
+
+*Email:* [gugudeja@gmail.com]

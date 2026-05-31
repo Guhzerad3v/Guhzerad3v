@@ -29,7 +29,7 @@ T*ools: Docker, n8n, Git, GitHub, VS Code, FastAPI.*
 *Stack: Node.js + FastAPI + Supabase + pgvector + React*
 *Automação de busca contextual em notas pessoais com LLMs.*
 
-2*. Plataforma de Headhunting (Ollama + Tavily)*
+*2. Plataforma de Headhunting (Ollama + Tavily)*
 *Stack: n8n + Docker + Ollama + Python*
 *Agente local de pesquisa de talentos com privacidade e custo baixo.*
 

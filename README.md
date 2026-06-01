@@ -15,8 +15,11 @@
 # 💻 Tech Stack:
 
 *Languages: Python (automação, backend)*
+
 *Data: SQLite, Supabase + pgvector.*
-T*ools: Docker, n8n, Git, GitHub, VS Code, FastAPI.*
+
+*Tools: Docker, n8n, Git, GitHub, VS Code, FastAPI.*
+
 *AI: Ollama, Anthropic API, integração multi-LLM.*
 
 # 🗣️ Idiomas:
